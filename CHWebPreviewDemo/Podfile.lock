@@ -1,5 +1,5 @@
 PODS:
-  - CHWebPreview (0.0.1)
+  - CHWebPreview (1.0.0)
   - SDWebImage (3.7.5):
     - SDWebImage/Core (= 3.7.5)
   - SDWebImage/Core (3.7.5)
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: ".."
 
 SPEC CHECKSUMS:
-  CHWebPreview: 26b36cebf5caa5980f5abd0fd991962f0d1d7ed3
+  CHWebPreview: 7ca5e2f945da27fadea95af5fb3b2ea95ea87859
   SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
 
