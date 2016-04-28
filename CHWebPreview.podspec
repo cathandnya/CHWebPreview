@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CHWebPreview"
-  s.version      = "1.0.0"
-  s.summary      = "CHWebPreview"
+  s.version      = "1.0.1"
+  s.summary      = "A webpage preview maker."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,8 +27,7 @@ Pod::Spec.new do |s|
    # s.description  = <<-DESC
    #                  DESC
 
-  s.homepage     = "http://cathand.org"
-  # s.homepage     = "https://github.com/cathandnya/CHwebPreview"
+  s.homepage     = "https://github.com/cathandnya/CHWebPreview"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -53,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "nya" => "webmaster@cathand.org" }
+  s.author             = { "Naomoto Niwayama" => "webmaster@cathand.org" }
   # Or just: s.author    = "nya"
   # s.authors            = { "nya" => "home@cathand.org" }
   # s.social_media_url   = "http://twitter.com/nya"
@@ -80,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/cathandnya/CHWebPreview.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/cathandnya/CHWebPreview.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
